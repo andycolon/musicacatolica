@@ -2,7 +2,7 @@
 
 Cantautor católico, nacido en Nueva York, de padres puertorriqueños, Andy Colón también es predicador y apologista católico.  Desde muy temprana edad, y con un talento especial para cantar, Andy se presentó en varios programas de radio y televisión en Nueva York. Pero por amor a la fe cristiana y con un deseo de servirle al Señor, Andy decidió tomar una rienda diferente, entregando su voz a la evangelización cristiana.  Actualmente, Andy es maestro de apologética en la Diócesis de Arlington.  Te invitamos a que visites esta página frecuentemente para que te mantengas al tanto de su ministerio de música católica.
 
-![professional photo of Andy](https://raw.githubusercontent.com/andycolon/musicacatolica/master/Photo%20Profesional.JPG "Andy Colón")
+![professional photo of Andy](https://raw.githubusercontent.com/andycolon/musicacatolica/master/Photo%20Profesional.JPG)
 
 ### ¿Dónde Puedo Escuchar La Música de Andy Colón?
 
