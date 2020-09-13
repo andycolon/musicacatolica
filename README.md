@@ -1,4 +1,4 @@
-## ¡Bienvenidos! 
+## ¡Bienvenidos A Mi Página! 
 
 Cantautor católico, nacido en Nueva York, de padres puertorriqueños, Andy Colón también es predicador y apologista católico.  Desde muy temprana edad, y con un talento especial para cantar, Andy se presentó en varios programas de radio y televisión en Nueva York. Pero por amor a la fe cristiana y con un deseo de servirle al Señor, Andy decidió tomar una rienda diferente, entregando su voz a la evangelización cristiana.  Actualmente, Andy es maestro de apologética en la Diócesis de Arlington.  Te invitamos a que visites esta página frecuentemente para que te mantengas al tanto de su ministerio de música católica.
 
@@ -10,8 +10,8 @@ La música de Andy Colón se puede escuchar en todas la plataformas digitales de
 
 ### ¿Qué Tipo De Charlas Ofrece Andy Colón?
 
-Andy es profesor de apologética católica en el Instituto de Formación Pastoral de la Diócesis de Arlington en Virginia, EEUU.  Andy es invitado frecuentemente a diferentes eventos y actividades para ofrecer diferentes temas de formación católica como lo es mariología, patrística, cristología, moralidad católica y historia de la Iglesia Católica.  Con energía y convicción, Andy está enfocado en ofrecer herramientas al católico de hoy para que puedan crecer en su fe cristiana y estar siempre listos a explicar y defender la fe católica. 
+Andy es profesor de apologética católica en el Instituto de Formación Pastoral de la Diócesis de Arlington en Virginia, EEUU.  Andy es invitado frecuentemente a diferentes eventos y actividades para ofrecer temas de formación católica como lo es mariología, patrística, cristología, moralidad católica y historia de la Iglesia Católica.  Con energía y convicción, Andy está enfocado en ofrecer herramientas al católico de hoy para que puedan crecer en su fe cristiana y estar siempre listos a explicar y defender la fe católica. 
 
-### Support or Contact
+### ¿Cómo Puedes Contactar A Andy Colón?
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lo puedes hacer enviando un correo electrónico a acmusicacatolica@gmail.com.  
