@@ -6,31 +6,11 @@ Cantautor católico, nacido en Nueva York, de padres puertorriqueños, Andy Col�
 
 ### ¿Dónde Puedo Escuchar La Música de Andy Colón?
 
-La música de Andy Colón se puede escuchar en todas la plataformas digitales de música como Apple Music, Spotify, YouTube Music, etc.  También pudes contactarte de directamente con Andy para preguntar como conseguir sus producciones musicales.  Finalmente, te puedes subscribir al canal de YouTube o Facebook de Andy para mantenerte al día sobre sus producciones musicales y charlas de apologética católica.
+La música de Andy Colón se puede escuchar en todas la plataformas digitales de música como Spotify, Apple Music, YouTube Music, etc.  También pudes contactarte  directamente con Andy usando las instrucciones que aparecen al final de esta página para preguntar como conseguir sus producciones musicales.  Finalmente, te puedes subscribir al canal de YouTube o Facebook de Andy para mantenerte al día sobre sus producciones musicales y charlas de apologética católica.
 
-```markdown
-Syntax highlighted code block
+### ¿Qué Tipo De Charlas Ofrece Andy Colón?
 
-# Header 1
-## Header 2
-### Header 3
-
-- 
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andycolon/musicacatolica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Andy es profesor de apologética católica en el Instituto de Formación Pastoral de la Diócesis de Arlington en Virginia, EEUU.  Andy es invitado frecuentemente a diferentes eventos y actividades para ofrecer diferentes temas de formación católica como lo es mariología, patrística, cristología, moralidad católica y historia de la Iglesia Católica.  Con energía y convicción, Andy está enfocado en ofrecer herramientas al católico de hoy para que puedan crecer en su fe cristiana y estar siempre listos a explicar y defender la fe católica. 
 
 ### Support or Contact
 
