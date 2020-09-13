@@ -1,8 +1,6 @@
-## Bienvenido A La Página de Andy Colón
+## ¡Bienvenido! 
 
-You can use the [editor on GitHub](https://github.com/andycolon/musicacatolica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cantautor católico, nacido en Nueva York, de padres puertorriqueños, Andy Colón también es predicador y apologista católico.  Desde muy temprana edad, y con un talento especial para cantar, Andy se presentó en varios programas de radio y televisión en Nueva York. Pero por amor a la fe cristiana y con un deseo de servirle al Señor, Andy decidió tomar una rienda diferente, entregando su voz a la evangelización cristiana.  Actualmente, Andy es maestro de apologética en la Diócesis de Arlington.  Te invitamos a que visites esta página frecuentemente para que te mantengas al tanto de su ministerio de música católica.
 
 ### Markdown
 
